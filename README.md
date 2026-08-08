@@ -40,7 +40,7 @@ The project covers user administration, group management, administrative role as
 ---
 ## Microsoft Entra ID Admin Center Homepage
 #
-<img width="1898" height="911" alt="Screenshot 2026-08-02 102525" src="https://github.com/user-attachments/assets/321a966c-484b-4e44-a0bd-09c10cf80a41" />
+<img width="1898" height="911" alt="01-Entra-Dashboard png" src="https://github.com/user-attachments/assets/99e13d38-1768-41b8-a20d-ca1b68363767" />
 
 
 
